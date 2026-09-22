@@ -1,4 +1,3 @@
-name = "Data Science Team"
-
+name = "Ivan Bajceta"
 print(f"Hello there, {name}!")
 
